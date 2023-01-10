@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Engr. Kirk Alyn Santos
+Hi, I am Engr. Kirk Alyn Santos
 ==============================================================================================================================================
 
 Electronics Engineer | Software Engineer
@@ -7,7 +7,7 @@ Electronics Engineer | Software Engineer
 I am an Electronics Engineer with programming experience in Software Development for the Web and CLI, and Military R&D.
 
 * 🌍  I'm based in Angeles City, Pampanga
-* 🖥️  See my portfolio at [Website](http://blissful-nobel-ac89d7.netlify.app)
+* 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/)
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
 * ⚡  I'm a budget Iron Man variant.
 
