@@ -9,7 +9,7 @@ I am an Electronics Engineer with programming experience in Software Development
 * 🌍  I'm based in Angeles City, Pampanga
 * 🖥️  See my portfolio at [Website](http://blissful-nobel-ac89d7.netlify.app)
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
-* ⚡  I'm the budget Iron Man.
+* ⚡  I'm a budget Iron Man variant.
 
 ### Skills
 
