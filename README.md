@@ -4,7 +4,7 @@ Hi, I am Engr. Kirk Alyn Santos
 Electronics Engineer | Software Engineer
 ----------------------------------------
 
-I am an Electronics Engineer with programming experience in Software Development for the Web and CLI, and Military R&D.
+I am an Electronics Engineer with programming experience in Software Development for the Web, CMS, CLI, and Military R&D.
 
 * 🌍  I'm based in Angeles City, Pampanga
 * 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/)
