@@ -9,7 +9,7 @@ I am an Electronics Engineer with programming experience in Software Development
 * 🌍  I'm based in Angeles City, Pampanga
 * 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/)
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
-* ⚡  I'm a budget Iron Man variant.
+
 
 ### Skills
 
