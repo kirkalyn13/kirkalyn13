@@ -6,7 +6,7 @@ Electronics Engineer | Software Engineer
 
 I am an Electronics Engineer with experience in software development for Web Apps, CMS, CLI, and R&D.
 
-* 🌍  I'm based in Angeles City, Pampanga
+* 🌍  I'm currently based in Tennessee, USA
 * 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/)
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
 
