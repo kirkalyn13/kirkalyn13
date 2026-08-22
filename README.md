@@ -7,7 +7,7 @@ Electronics Engineer | Software Engineer
 I am an Electronics Engineer with experience in software development for Web Apps, CMS, CLI, and R&D.
 
 * 🌍  I'm currently based in Tennessee, USA
-* 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/)
+* 🖥️  See my portfolio [here]([https://kls-portfolio-site.vercel.app/](https://kirkalynsantos.vercel.app/))
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
 
 
@@ -18,7 +18,7 @@ I am an Electronics Engineer with experience in software development for Web App
 ### Other Github Profiles
 
 - [kirkalynsantos-sanofi](https://github.com/kirkalynsantos-sanofi) - Crescendo Collective and/or Sanofi Accelerator
-- [kirkalynsantos](https://kls-portfolio-site.vercel.app/) - Carbonetes
+- [kirkalynsantos](https://kls-portfolio-site.vercel.app/)](https://github.com/kirkalynsantos) - Carbonetes
 
 ### Socials
 
