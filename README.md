@@ -18,7 +18,7 @@ I am an Electronics Engineer with experience in software development for Web App
 ### Other Github Profiles
 
 - [kirkalynsantos-sanofi](https://github.com/kirkalynsantos-sanofi) - Crescendo Collective and/or Sanofi Accelerator
-- [kirkalynsantos](https://kls-portfolio-site.vercel.app/)](https://github.com/kirkalynsantos) - Carbonetes
+- [kirkalynsantos](https://kls-portfolio-site.vercel.app/)(https://github.com/kirkalynsantos) - Carbonetes
 
 ### Socials
 
