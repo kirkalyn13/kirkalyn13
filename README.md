@@ -1,10 +1,10 @@
 Hi, I am Engr. Kirk Alyn Santos
 ==============================================================================================================================================
 
-Electronics Engineer | Software Engineer
+Full Stack Software Engineer | Electronics Engineer 
 ----------------------------------------
 
-I am an Electronics Engineer with experience in software development for Web Apps, CMS, CLI, and R&D.
+Software-Driven Electronics Engineer | Building Web Apps, Pipelines, CMS Backends, CLI Tools, and R&D Solutions.
 
 * 🌍  I'm currently based in Tennessee, USA
 * 🖥️  See my portfolio [here]([https://kls-portfolio-site.vercel.app/](https://kirkalynsantos.vercel.app/))
