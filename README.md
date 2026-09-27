@@ -40,6 +40,9 @@ Software Engineer with an Electronics Engineering background, turning complex pr
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirkalynsantos&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Other Github Profiles
 
 - [kirkalynsantos-sanofi](https://github.com/kirkalynsantos-sanofi) - Crescendo Collective and/or Sanofi Accelerator
