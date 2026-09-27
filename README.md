@@ -41,7 +41,7 @@ Software Engineer with an Electronics Engineering background, turning complex pr
 </p>
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirkalynsantos&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kirkalynsantos&layout=compact&theme=radical&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 ### Other Github Profiles
 
