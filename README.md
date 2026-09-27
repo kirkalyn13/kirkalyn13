@@ -7,7 +7,7 @@ Full Stack Software Engineer | Electronics Engineer
 Software-Driven Electronics Engineer | Building Web Apps, Pipelines, CMS Backends, CLI Tools, and R&D Solutions.
 
 * 🌍  I'm currently based in Tennessee, USA
-* 🖥️  See my portfolio [here]([https://kls-portfolio-site.vercel.app/](https://kirkalynsantos.vercel.app/)
+* 🖥️  See my portfolio [here](https://kls-portfolio-site.vercel.app/](https://kirkalynsantos.vercel.app/)
 * ✉️  You can contact me at [kirkalyn13@gmail.com](mailto:kirkalyn13@gmail.com)
 
 
